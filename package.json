@@ -1,6 +1,6 @@
 {
   "name": "stock-price-checker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple NPM package to fetch real-time and historical stock prices along with financial indicators.",
   "main": "index.js",
   "scripts": {
